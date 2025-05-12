@@ -1,0 +1,2 @@
+search_keywords,include_journals,exclude_journals,email
+"mpox[tiab] OR monkey pox[tiab]","Nature,Science,The Lancet","predatory_journal1,predatory_journal2","example@example.com"

@@ -1,0 +1,34 @@
+# Node.js用のgitignore
+
+# 依存パッケージ
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# 環境設定
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# エディタ設定
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# ビルド出力
+/dist
+/build
+/out
+
+# ログファイル
+*.log
