@@ -1,0 +1,14 @@
+# CITATION.cff -- 最小構成例
+cff-version: 1.2.0
+message: "この研究を引用する際は、以下の書誌情報を用いてください。"
+title: "新興感染症のシステマティック・レビュー自動化コード"
+version: "v1.0.0"
+doi: 10.5281/zenodo.15400248
+authors:
+  - family-names: Kataoka
+    given-names: Yuki
+    orcid: https://orcid.org/0000-0001-2345-6789
+date-released: 2025-05-14
+license: MIT
+repository-code: https://github.com/youkiti/24K13518
+# 任意で keywords, abstract, references も追加可
